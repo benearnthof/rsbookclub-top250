@@ -1,4 +1,4 @@
-# rsbookclub-datadumps
+# rsbookclub-top250
 Code for the filtering &amp; analysis of rsbookclub data.  
 
 ### Important:
